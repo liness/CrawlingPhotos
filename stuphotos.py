@@ -1,6 +1,6 @@
 import urllib2
-
-url = 'http://61.181.145.1:88/Stuphotos/'
+#爬取学籍照
+url = 'http://***'
 banji = []
 zhuanye = []
 for a in range(0,8):
