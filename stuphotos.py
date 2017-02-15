@@ -25,7 +25,7 @@ def getFile(url):
     f.close()
     print "Sucessful to download" + " " + file_name
 
-for year in range(14, 15):
+for year in range(11, 15):
     for xh in zhuanye:
         for nj in banji:
             for i in range(1, 40):
