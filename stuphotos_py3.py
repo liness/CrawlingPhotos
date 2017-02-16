@@ -16,7 +16,7 @@ def getImg(stu_url):
         f.close()
         print("OK   !"+name,)
 
-url = 'http://61.181.145.1:88/Stuphotos/'
+url = 'http://*/'
 for a in range(0,10):
     for b in range(1,3):
         nianji.append(str(a)+str(b))
